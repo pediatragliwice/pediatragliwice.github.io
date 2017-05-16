@@ -15,7 +15,7 @@ div.center {
 }
 div.middle {
     position: absolute;
-   top: 100px;
+    top: 200px;
 }
 p.name{
     font-weight: semi-bold;
