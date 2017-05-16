@@ -9,9 +9,21 @@ body{
 }
 div.center {
     width:500px; 
+    height: 100%;
     margin:0 auto;
+    position: relative;
+}
+div.middle {
+    position: absolute;
+   top: 100px;
 }
 p.name{
     font-weight: semi-bold;
     font-size: 24px;
+}
+span.space{
+    padding-left:15px;
+}
+img.qr{
+        margin-top: 20px;
 }
