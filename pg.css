@@ -8,7 +8,7 @@ body{
     color: white;
 }
 div.center {
-    width:500px; 
+    width:800px; 
     height: 100%;
     margin:0 auto;
     position: relative;
@@ -27,4 +27,7 @@ span.space{
 }
 img.qr{
         margin-top: 20px;
+}
+a{
+        color: #f2f2f2;
 }
