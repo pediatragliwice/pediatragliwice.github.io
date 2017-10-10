@@ -1,0 +1,22 @@
+.content{
+    background-color: #872187;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";       /* IE 8 */
+filter: alpha(opacity=50);  /* IE 5-7 */
+-moz-opacity: 0.5;          /* Netscape */
+-khtml-opacity: 0.5;        /* Safari 1.x */
+opacity: 0.5; 
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin-top: 50px;
+    padding: 20px;
+}
+a{
+        color: #f2f2f2;
+}
+
+body{
+     background-image: url('https://static.pexels.com/photos/161489/stethoscope-doctor-medical-blood-pressure-161489.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+    
