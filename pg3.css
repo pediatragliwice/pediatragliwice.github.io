@@ -1,8 +1,8 @@
 .container {
-    margin: 10px;
     display: grid;
     justify-content: center;
     height: 100vh;
+    margin: 10px;
   }
 
 
@@ -10,6 +10,9 @@
     grid-column-start: 1;
     grid-column: 12;
     align-self: center;
+   
+    padding: 20px;
+   
   }
 .space{
     padding-right:10px; 
@@ -30,4 +33,10 @@ a{
 
 a:hover{
     color: gray;
+}
+.disabled{
+    background-color: #3A083A;
+    color: white;
+    margin-bottom: 25px;
+    padding: 25px;
 }
