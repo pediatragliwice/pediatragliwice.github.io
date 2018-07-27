@@ -31,3 +31,6 @@ img.qr{
 a{
         color: #f2f2f2;
 }
+.avatar{
+    border-radius: 50%;
+}
