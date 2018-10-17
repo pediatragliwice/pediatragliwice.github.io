@@ -35,10 +35,11 @@ a:hover{
     color: gray;
 }
 .disabled{
-    background-color: #3A083A;
+    background-color: #20204E;
     color: white;
     margin-bottom: 25px;
     padding: 25px;
+    width: 400px;
 }
 .avatar{
     border-radius: 50%;
