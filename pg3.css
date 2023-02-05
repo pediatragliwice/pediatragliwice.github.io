@@ -45,3 +45,24 @@ a:hover{
     border-radius: 50%;
 }
 
+.visitButton {
+	background-color:#3d84b3;
+	border-radius:5px;
+	border:1px solid #3d83df;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+.visitButton:hover {
+	background-color:#3d83df;
+}
+.visitButton:active {
+	position:relative;
+	top:1px;
+}
+
+        
